@@ -3,7 +3,6 @@
     "require": {
         "php": ">=5.5.0"
     },
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Xiaohe\\OssSts\\": "lib/"
