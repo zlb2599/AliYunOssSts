@@ -2,8 +2,6 @@
     "name": "xiaohe/aliyun-oss-sts",
     "type": "library",
     "description": "xiaohe",
-    "keywords": ["framework"],
-    "homepage": "https://symfony.com",
     "license": "MIT",
     "require": {
         "php": ">=5.5.0"
