@@ -1,12 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Baihuzi
- * Date: 2018/6/11
- * Time: 15:03
- */
 
-namespace MyOK\OssSts;
+namespace Xiaohe\OssSts;
 
 include_once 'core/aliyun-php-sdk-core/Config.php';
 use Sts\Request\V20150401 as Sts;

@@ -1,12 +1,12 @@
 {
-    "name": "myok/aliyun-oss-sts",
+    "name": "xiaohe/aliyun-oss-sts",
     "require": {
         "php": ">=5.5.0"
     },
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "MyOK\\OssSts\\": "lib/"
+            "Xiaohe\\OssSts\\": "lib/"
         }
     }
 }
